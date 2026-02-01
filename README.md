@@ -1,1 +1,4 @@
-# DSA-Assignment-7
+group memebers 
+Abel wendimagege
+Ablante Migbaru
+Felemeta Bersisa
